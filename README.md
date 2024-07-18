@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mani Shankar Janumpalli</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h4>I am a dedicated Software Engineer specializing in backend development with a strong focus on Node.js and Express.js. My journey in the tech world has equipped me with a diverse skill set, ranging from API development and cloud infrastructure management to automation and performance optimization.
+  
+In my current role at ViaSat Inc., I’ve been instrumental in developing and maintaining high-performance RESTful APIs, ensuring seamless integration and communication between various systems. I am adept at leveraging modern DevOps practices, using tools like Docker and Kubernetes to deploy and scale microservices-based architectures on AWS. Automation is a key part of my workflow, and I’ve successfully implemented CI/CD pipelines using Jenkins, which have streamlined our deployment processes and boosted team productivity.
+
+Database management is another area of my expertise, with hands-on experience in MongoDB, MySQL. I am proficient in writing and optimizing complex queries to ensure efficient data handling and retrieval. Additionally, I’ve implemented robust security measures to protect API endpoints, employing authentication and authorization protocols like JWT and OAuth. Monitoring and performance tuning are crucial aspects of my role, and I utilize tools like Prometheus, Grafana, and the ELK stack to maintain system health and swiftly address any issues. My commitment to continuous learning and improvement drives me to stay updated with the latest industry trends and technologies. 
+
+Previously, I worked at Accenture as a Software Engineer, where I honed my skills in Java and Spring MVC. I thrive in collaborative environments and enjoy mentoring junior developers, sharing my knowledge, and fostering a culture of excellence. Agile methodologies are integral to my approach, ensuring that projects are delivered on time and meet the highest quality standards.
+
+I hold a Master’s degree in Information Technology from Arizona State University, completed in December 2022. This program equipped me with advanced technical knowledge and problem-solving skills, which I apply in my professional endeavors. Prior to that, I earned my Bachelor’s degree in Electronics and Communication Engineering from Sreenidhi Institute of Technology in May 2019, providing me with a strong foundation in engineering principles and analytical thinking.
+
+"Quality means doing it right when no one is looking."</h4>
 
 - 📫 How to reach me **shankarmani1432@gmail.com**
 
